@@ -47,7 +47,7 @@ class Website3DDemo {
     const near = 1.0;
     const far = 1000.0;
     this._camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
-    this._camera.position.set(15, 15, 20);
+    this._camera.position.set(3, 13, 8);
 
     this._scene = new THREE.Scene();
 
