@@ -1,6 +1,6 @@
-import * as THREE from '..https://1000game.github.io/3dstore/three.module.js';
-import { FBXLoader } from '../FBXLoader.js';
-import { OrbitControls } from '../OrbitControls.js';
+import * as THREE from '../js/three.module.js';
+import { FBXLoader } from '../js/FBXLoader.js';
+import { OrbitControls } from '../js/OrbitControls.js';
 
 // Override the fetch function to log requests
 const originalFetch = fetch;
