@@ -1,4 +1,4 @@
-import * as THREE from '../3dstore/three.module.js';
+import * as THREE from '..https://1000game.github.io/3dstore/three.module.js';
 import { FBXLoader } from '../FBXLoader.js';
 import { OrbitControls } from '../OrbitControls.js';
 
